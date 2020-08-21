@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "zoho-test-ed70f",
+  "private_key_id": "ea9c5bdd3462b76a9e4e6de469345aa8d4872ce5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDku/zbDTq7fbSz\ne5ZTow7GwoHVQe19yKyhGT1PnWgbmmXShW1E8p/Qb6Id1vo5rT8/3DOPWeq/JtWG\nhTKRUIlpNh178cxngS9pQnkbAWGNXshFMY7Ptt5pRRaAle5WzwDXUaJOovOr5RqQ\nA2mHYl4hNCh7fafxkWk4ep4YHaKABseVWhRBQEot5N6ixEs/g0FiQjv1E757LYV8\nLQ6PS/dblPTqi2w4AbmUc06d+yzXyoqMDxsESRSojAN7NI8Jr99jmaK5da6PF55x\npaifG6iod61ZhQ8b71IiUYa5Lb0W6xobwd93OtzDqbAhjqdDSO24wES19fQOmXsB\nYT/cGg5XAgMBAAECggEAXYvwntnrQlDn/Vu3IF+YpHtaRBChg4b16zD6XTxAHsHn\nkNDW3pLn/4QYZmHMlpgfPQve3mrk0eac/1YsVzf76tah+lXqxg4UiNUR2JSZBAtW\nls3s3VCp553E1TP8dO5WJrmRSt3kEFIzqeBrYV4+pw/A2riKXgadZObpD23XTsox\nFoljaQMt/lDP3JoXu48TFC0HWqZlCX1NGe6WyH1vXvUG4JsQNNi0DKgM9RLcLI1Q\napB7VRF+ygBWZZwonDSqqo27YEiUM+lLDjluKHMwXHRRfZH4jQPaynaHhew/8ZaK\npf1BNjH0yUBoKlzj+l6BEgfVom3yqAEQC+kUYYRssQKBgQD0a4BUgpVPS6KB65cz\n8JY/DB5F7fS7ohExhtMBU4PQZ9yTwl/n5ro+Ausnxe/ycumBwht6iUZtzeYqkfT3\n9OTsVmU8SbcmR869I1anseqRyV+put8SNfQqMlVcmAu0VB//Hgoq0l21o2/cl/5P\n/nOtTE8IgU8ns3AEwPWSsg0KeQKBgQDvkj2FYiFqGjse5XsLZEsrAzTmVpu+Kq8Y\nW1x4ikfkDUjwJDTyFwcKvLFPuMP5WL6QgKqg1pQ92nSiyP+TfItjOlvbUGNhgW1u\nyE0SFOITBpdItFM8Qs4V/N3SFRnDoY9q/JKH01t8gHYtGdL8Vtn5rEiDHt6MMRnu\nZWRZD32rTwKBgBOI/ArFHRXnX6euorkeA4QqfcjtCeBtRZ6FvhufBywDARg2MuAg\nCsamCRF2uoTQNmWOlA+pJR3llP3WCJRA2IMjLJgy9BZ1KsrnJiflCnB4fdLdArM7\n6LXuq+/onxbcmmoThpCBm8fGtkwVQdg26Bvzu2VcoGz15IAcxAPjgzNRAoGBAJkQ\nRl5CJDc2Ky/CTqsomR4SHmpMS5VkkBpvxNT/BI+gLUnA2FMUg1tI08CrvApDuP16\nN4orjus19+9JnIEOwb/UOXwWEGjr2I8/Sn6S+R5Ox7mb/NIznJhPxynCcYOcZZVl\nafl+AKW7LcYDCdpPY1UxzeJ4hpfrhzXZchO04gXhAoGBAMG7Yrhi4ddCw84PygPY\nfvt8vYSmzKbXQbH8pb9h7RcWUIqDPG95c5E0L3FUiViSyYGHicMrNlWXncxRuY7U\n4NIeaEREAsD8cfI3xksVs2xv1OKft2d8nSomEE2N9YhLFGf/0Sjf58wpCFjOWcO/\ny4snBZF1SPc3xzdEIWGxFwQR\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-g8xk9@zoho-test-ed70f.iam.gserviceaccount.com",
+  "client_id": "110469306380978616931",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-g8xk9%40zoho-test-ed70f.iam.gserviceaccount.com"
+}
